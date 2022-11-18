@@ -1,0 +1,44 @@
+.themecolor {
+color: skyblue;
+}
+
+html {
+    background-color: rgb(0, 13, 19);
+}
+
+.center {
+    text-align: center;
+}
+
+.planesthemecolor {
+    background-color: rgb(174, 2, 2);
+    color: rgb(0, 0, 0);
+}
+
+.dronesthemecolor {
+    background-color: rgb(110, 4, 156);
+    color:black;
+}
+
+.rocketsthemecolor{
+    background-color: rgb(171, 171, 7);
+    color:black;
+}
+
+.blockpad {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.back {
+    border-style: inset;
+    border-width: 3px;
+}
+
+.propad {
+    padding-bottom: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
